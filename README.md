@@ -1,5 +1,5 @@
 # roberta-base-bne-resenas-project-nlp-con-transformers
-NPL - Transformers
+NPL - Transformers y construío un servidor MCP con Gradio
 
 
 ## Modelo: sanrapi/roberta-base-bne-resenas-project-nlp-con-transformers
